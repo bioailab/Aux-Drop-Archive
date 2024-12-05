@@ -1,3 +1,4 @@
+### See [the author's](https://rohit102497.github.io/) git repository here: https://github.com/Rohit102497/Aux-Drop
 
 # Aux-Drop: Handling Haphazard Inputs in Online Learning Using Auxiliary Dropouts
 This paper is accepted at Transactions on Machine Learning Research. The link to the paper is: https://openreview.net/pdf?id=R9CgBkeZ6Z. 
@@ -143,5 +144,3 @@ To run the Aux-Drop model, change the control parameters accordingly in the **ma
 
 To run the baseline ODL model, change the control parameters accordingly in the **baseline.py** file and run
  - `python Code/baseline.py`
-
-
